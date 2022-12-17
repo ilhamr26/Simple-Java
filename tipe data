@@ -1,0 +1,13 @@
+class Main {
+  public static void main(String[] args) {
+    // Cetak 12 sebagai integer
+    System.out.println(12);
+    
+    // Cetak jumlah dari 5 dan 2
+    System.out.println(5 + 2);
+    
+    // Cetak "5 + 2" sebagai string
+    System.out.println("5 + 2");
+    
+  }
+}
